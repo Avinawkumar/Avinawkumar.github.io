@@ -152,22 +152,22 @@ project_WorkoutFitnessCenter.addEventListener("mouseover",()=>{
         clearInterval(intv);
     },8000);
 })
-project_CloudTv.addEventListener("mouseover",()=>{ 
-    let count=0;
-    let intv = setInterval(()=>{
-        if(count<project_CloudTv_Arr.length-1){
-            count++;
-            project_CloudTv.src=project_CloudTv_Arr[count];
-        }else{            
-            count=0;
-            project_CloudTv.src=project_CloudTv_Arr[count];
-        }
-    },1000);
+// project_CloudTv.addEventListener("mouseover",()=>{ 
+//     let count=0;
+//     let intv = setInterval(()=>{
+//         if(count<project_CloudTv_Arr.length-1){
+//             count++;
+//             project_CloudTv.src=project_CloudTv_Arr[count];
+//         }else{            
+//             count=0;
+//             project_CloudTv.src=project_CloudTv_Arr[count];
+//         }
+//     },1000);
 
-    setTimeout(()=>{        
-        clearInterval(intv);
-    },5000);
-})
+//     setTimeout(()=>{        
+//         clearInterval(intv);
+//     },5000);
+// })
 project_TypeBattle.addEventListener("mouseover",()=>{ 
     let count=0;
     let intv = setInterval(()=>{
@@ -184,22 +184,22 @@ project_TypeBattle.addEventListener("mouseover",()=>{
         clearInterval(intv);
     },5000);
 })
-project_OpenChat.addEventListener("mouseover",()=>{ 
-    let count=0;
-    let intv = setInterval(()=>{
-        if(count<project_OpenChat_Arr.length-1){
-            count++;
-            project_OpenChat.src=project_OpenChat_Arr[count];
-        }else{            
-            count=0;
-            project_OpenChat.src=project_OpenChat_Arr[count];
-        }
-    },1000);
+// project_OpenChat.addEventListener("mouseover",()=>{ 
+//     let count=0;
+//     let intv = setInterval(()=>{
+//         if(count<project_OpenChat_Arr.length-1){
+//             count++;
+//             project_OpenChat.src=project_OpenChat_Arr[count];
+//         }else{            
+//             count=0;
+//             project_OpenChat.src=project_OpenChat_Arr[count];
+//         }
+//     },1000);
 
-    setTimeout(()=>{        
-        clearInterval(intv);
-    },4000);
-})
+//     setTimeout(()=>{        
+//         clearInterval(intv);
+//     },4000);
+// })
 project_GrabYourFit.addEventListener("mouseover",()=>{ 
     let count=0;
     let intv = setInterval(()=>{
@@ -232,25 +232,22 @@ project_WMB.addEventListener("mouseover",()=>{
         clearInterval(intv);
     },6000);
 })
-project_PigGame.addEventListener("mouseover",()=>{ 
-    let count=0;
-    let intv = setInterval(()=>{
-        if(count<project_PigGame_Arr.length-1){
-            count++;
-            project_PigGame.src=project_PigGame_Arr[count];
-        }else{            
-            count=0;
-            project_PigGame.src=project_PigGame_Arr[count];
-        }
-    },1000);
+// project_PigGame.addEventListener("mouseover",()=>{ 
+//     let count=0;
+//     let intv = setInterval(()=>{
+//         if(count<project_PigGame_Arr.length-1){
+//             count++;
+//             project_PigGame.src=project_PigGame_Arr[count];
+//         }else{            
+//             count=0;
+//             project_PigGame.src=project_PigGame_Arr[count];
+//         }
+//     },1000);
 
-    setTimeout(()=>{        
-        clearInterval(intv);
-    },14000);
-})
-
-
+//     setTimeout(()=>{        
+//         clearInterval(intv);
+//     },14000);
+// })
 
 
 
-// let s = "./images/vartalap/vartalap1.png"
