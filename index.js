@@ -128,12 +128,12 @@ let project_GrabYourFit = document.getElementById("project_GrabYourFit");
 let project_WMB = document.getElementById("project_WMB");
 let project_PigGame = document.getElementById("project_PigGame");
 
-let project_WorkoutFitnessCenter_Arr = ["./images/nexacliq/nexacliq1.png", "./images/nexacliq/nexacliq2.png"];
+let project_WorkoutFitnessCenter_Arr = ["./images/nexacliq/nexacliq1.png", "./images/nexacliq/nexacliq2.png", "./images/nexacliq/nexacliq3.png", "./images/nexacliq/nexacliq4.png", "./images/nexacliq/nexacliq5.png"];
 // let project_CloudTv_Arr = ["./images/projects/CloudTv/CloudTv1.png", "./images/projects/CloudTv/CloudTv2.png", "./images/projects/CloudTv/CloudTv3.png", "./images/projects/CloudTv/CloudTv4.png", "./images/projects/CloudTv/CloudTv5.png"];
 let project_TypeBattle_Arr = ["./images/vartalap/vartalap1.png", "./images/vartalap/vartalap2.png", "./images/vartalap/vartalap3.png", "./images/vartalap/vartalap4.png", "./images/vartalap/vartalap5.png"];
 // let project_OpenChat_Arr = ["./images/projects/OpenChat/OpenChat1.png", "./images/projects/OpenChat/OpenChat2.png", "./images/projects/OpenChat/OpenChat3.png", "./images/projects/OpenChat/OpenChat4.png"];
 let project_GrabYourFit_Arr = ["./images/snakegame/snakegame1.png", "./images/snakegame/snakegame2.png", "./images/snakegame/snakegame3.png", "./images/snakegame/snakegame4.png"];
-let project_WMB_Arr = ["./images/gadgetsworld/gadgetsw1.png", "./images/gadgetsworld/gadgetsw2.png"];
+let project_WMB_Arr = ["./images/lawconnect/lawconnect1.png", "./images/lawconnect/lawconnect2.png", "./images/lawconnect/lawconnect3.png", "./images/lawconnect/lawconnect4.png", "./images/lawconnect/lawconnect15.png"];
 // let project_PigGame_Arr = ["./images/projects/PigGame/PigGame1.png", "./images/projects/PigGame/PigGame2.png", "./images/projects/PigGame/PigGame3.png", "./images/projects/PigGame/PigGame4.png", "./images/projects/PigGame/PigGame5.png", "./images/projects/PigGame/PigGame6.png", "./images/projects/PigGame/PigGame7.png", "./images/projects/PigGame/PigGame8.png", "./images/projects/PigGame/PigGame9.png", "./images/projects/PigGame/PigGame10.png", "./images/projects/PigGame/PigGame11.png", "./images/projects/PigGame/PigGame12.png", "./images/projects/PigGame/PigGame13.png", "./images/projects/PigGame/PigGame14.png"];
 
 project_WorkoutFitnessCenter.addEventListener("mouseover",()=>{ 
