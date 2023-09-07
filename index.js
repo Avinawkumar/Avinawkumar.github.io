@@ -98,13 +98,13 @@ sr.reveal(".contact-input", { interval: 100 });
 
 
 // For Passing the CP Platform Testcases
-let resume1 = document.getElementById("resume-button-1").addEventListener("click", NewTab)
-let resume2 = document.getElementById("resume-button-2").addEventListener("click", NewTab)
-function NewTab() {
-  window.location.assign(
-    "https://drive.google.com/file/d/14V6jNHIfpC52sU8aMLQmzWMWB5B98s7f/view","_blank"
-  );
-}
+// let resume1 = document.getElementById("resume-button-1").addEventListener("click", NewTab)
+// let resume2 = document.getElementById("resume-button-2").addEventListener("click", NewTab)
+// function NewTab() {
+//   window.location.assign(
+//     "https://drive.google.com/file/d/14V6jNHIfpC52sU8aMLQmzWMWB5B98s7f/view","_blank"
+//   );
+// }
 // For Passing the CP Platform Testcases
 
     
